@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# Grocery Store
+* Asparagus
+* Bread
+* Fruit
+  * Apples
+  * Bananas
